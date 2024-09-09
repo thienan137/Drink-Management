@@ -1,0 +1,19 @@
+D:\Cơ sở lập trình\Project cuối kì\Winform\Phần mềm quản lý\bin\Debug\Phần mềm quản lý.exe.config
+D:\Cơ sở lập trình\Project cuối kì\Winform\Phần mềm quản lý\bin\Debug\Phần mềm quản lý.exe
+D:\Cơ sở lập trình\Project cuối kì\Winform\Phần mềm quản lý\bin\Debug\Phần mềm quản lý.pdb
+D:\Cơ sở lập trình\Project cuối kì\Winform\Phần mềm quản lý\obj\Debug\Phần mềm quản lý.csproj.AssemblyReference.cache
+D:\Cơ sở lập trình\Project cuối kì\Winform\Phần mềm quản lý\obj\Debug\Phần_mềm_quản_lý.Properties.Resources.resources
+D:\Cơ sở lập trình\Project cuối kì\Winform\Phần mềm quản lý\obj\Debug\Phần mềm quản lý.csproj.GenerateResource.cache
+D:\Cơ sở lập trình\Project cuối kì\Winform\Phần mềm quản lý\obj\Debug\Phần mềm quản lý.csproj.CoreCompileInputs.cache
+D:\Cơ sở lập trình\Project cuối kì\Winform\Phần mềm quản lý\obj\Debug\Phần mềm quản lý.exe
+D:\Cơ sở lập trình\Project cuối kì\Winform\Phần mềm quản lý\obj\Debug\Phần mềm quản lý.pdb
+D:\Cơ sở lập trình\Project cuối kì\Winform\Phần mềm quản lý\obj\Debug\Phần_mềm_quản_lý.fLogin.resources
+D:\Cơ sở lập trình\Project cuối kì\Winform\Phần mềm quản lý\obj\Debug\Phần_mềm_quản_lý.fTableManager.resources
+D:\Cơ sở lập trình\Project cuối kì\Winform\Phần mềm quản lý\obj\Debug\Phần_mềm_quản_lý.fAccountProfile.resources
+D:\Cơ sở lập trình\Project cuối kì\Winform\Phần mềm quản lý\obj\Debug\Phần_mềm_quản_lý.fAdmin.resources
+D:\Cơ sở lập trình\Project cuối kì\Winform\Phần mềm quản lý\obj\Debug\Phần_mềm_quản_lý.fTurnover.resources
+D:\Cơ sở lập trình\Project cuối kì\Winform\Phần mềm quản lý\obj\Debug\Phần_mềm_quản_lý.Form_Admin.fAccount.resources
+D:\Cơ sở lập trình\Project cuối kì\Winform\Phần mềm quản lý\obj\Debug\Phần_mềm_quản_lý.Form_Admin.fCategory.resources
+D:\Cơ sở lập trình\Project cuối kì\Winform\Phần mềm quản lý\obj\Debug\Phần_mềm_quản_lý.Form_Admin.fFood.resources
+D:\Cơ sở lập trình\Project cuối kì\Winform\Phần mềm quản lý\obj\Debug\Phần_mềm_quản_lý.Form_Admin.fTableFood.resources
+D:\Cơ sở lập trình\Project cuối kì\Winform\Phần mềm quản lý\obj\Debug\Phần mềm quản lý.csproj.SuggestedBindingRedirects.cache
